@@ -1,0 +1,6 @@
+[[Character Template]]
+[[Races Template]]
+[[Story Template]]
+[[World Template]]
+[[Location Templates]]
+[[Variant Template]]

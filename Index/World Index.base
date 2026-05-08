@@ -1,0 +1,12 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.inFolder("Worlds")
+  - type: list
+    name: View
+    filters:
+      and:
+        - file.inFolder("Worlds")
+    separator: ","

@@ -1,0 +1,11 @@
+{
+  "alwaysUpdateLinks": true,
+  "promptDelete": false,
+  "showInlineTitle": true,
+  "userIgnoreFilters": [
+    "Index/",
+    "Canvases/",
+    "Hidden/",
+    "Races/"
+  ]
+}

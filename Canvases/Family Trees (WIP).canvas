@@ -1,0 +1,28 @@
+{
+	"nodes":[
+		{"id":"9354418113abbe00","type":"file","file":"Characters/Linyx Timeline.md","x":40,"y":-260,"width":400,"height":400,"color":"6"},
+		{"id":"79ab23e5905fad8e","type":"file","file":"Characters/Relex Timeline.md","x":320,"y":-760,"width":400,"height":400,"color":"#0000ff"},
+		{"id":"bbc812013b2a145c","type":"file","file":"Characters/Xell Timeline.md","x":-520,"y":-260,"width":400,"height":400,"color":"1"},
+		{"id":"e6d5078d5af83c3e","type":"file","file":"Characters/Bubble Timeline.md","x":-1080,"y":-260,"width":400,"height":400,"color":"5"},
+		{"id":"4cb6d71f81c611d6","type":"file","file":"Characters/Xell's Daughter.md","x":-240,"y":240,"width":400,"height":400,"color":"2"},
+		{"id":"239372b4ce668660","type":"file","file":"Characters/Relex's Wife.md","x":-200,"y":-800,"width":400,"height":400,"color":"#ff7dc8"},
+		{"id":"07a99ba86f9fd809","type":"file","file":"Characters/Xeno Carter.md","x":2040,"y":-260,"width":400,"height":400},
+		{"id":"fa7ee2957bc309c5","type":"file","file":"Characters/Zero.md","x":1200,"y":200,"width":400,"height":400},
+		{"id":"60f8aec9321bf44d","type":"file","file":"Characters/Zeta.md","x":1760,"y":200,"width":400,"height":400},
+		{"id":"b31003caf717f209","type":"file","file":"Characters/Xen.md","x":2320,"y":200,"width":400,"height":400},
+		{"id":"d57363989198137f","x":2880,"y":200,"width":400,"height":400,"type":"file","file":"Characters/Vixen.md"}
+	],
+	"edges":[
+		{"id":"31639b12f7471029","fromNode":"239372b4ce668660","fromSide":"bottom","toNode":"9354418113abbe00","toSide":"top","color":"1"},
+		{"id":"96e61e789f865534","fromNode":"79ab23e5905fad8e","fromSide":"bottom","toNode":"9354418113abbe00","toSide":"top","color":"1"},
+		{"id":"f31f91ac4df6b413","fromNode":"bbc812013b2a145c","fromSide":"bottom","toNode":"4cb6d71f81c611d6","toSide":"top","color":"1"},
+		{"id":"50b0a5a9ab7abf21","fromNode":"9354418113abbe00","fromSide":"bottom","toNode":"4cb6d71f81c611d6","toSide":"top","color":"1"},
+		{"id":"0ceb886c230ac7ba","fromNode":"e6d5078d5af83c3e","fromSide":"right","toNode":"bbc812013b2a145c","toSide":"left","fromEnd":"arrow","color":"3"},
+		{"id":"c6f7f2ea563ec0ca","fromNode":"e6d5078d5af83c3e","fromSide":"top","toNode":"79ab23e5905fad8e","toSide":"left","fromEnd":"arrow","color":"3"},
+		{"id":"f77eca327955e190","fromNode":"bbc812013b2a145c","fromSide":"right","toNode":"9354418113abbe00","toSide":"left","fromEnd":"arrow","color":"#ff7dc8"},
+		{"id":"29427f21a242dbe6","fromNode":"07a99ba86f9fd809","fromSide":"bottom","toNode":"fa7ee2957bc309c5","toSide":"top","color":"6"},
+		{"id":"33b58f353fd9538b","fromNode":"07a99ba86f9fd809","fromSide":"bottom","toNode":"60f8aec9321bf44d","toSide":"top","color":"6"},
+		{"id":"9babba99e20c365b","fromNode":"07a99ba86f9fd809","fromSide":"bottom","toNode":"b31003caf717f209","toSide":"top","color":"6"},
+		{"id":"0134356dbdb53f6a","fromNode":"07a99ba86f9fd809","fromSide":"bottom","toNode":"d57363989198137f","toSide":"top","color":"6"}
+	]
+}
